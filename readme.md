@@ -82,6 +82,6 @@
 - `screenshots/` —— 使用截图。
 
 
-如果这个工具对你有帮助，欢迎请作者喝杯咖啡 ☕。
+如果这个工具帮到了你，欢迎请我喝杯奶茶 🧋，随意就好～
 
-![收款码](assets/tip.jpg)
+<img src="assets/tip.jpg" alt="收款码" width="200">

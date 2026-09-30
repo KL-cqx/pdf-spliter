@@ -2,7 +2,8 @@
 
 一个**纯前端、单文件、零安装**的 PDF 拆分工具。用户下载 `pdf_spliter_offline.html` 后，双击用浏览器打开即可弹出交互界面使用，无需安装任何环境，也**完全不需要联网**。
 
-> 仓库地址：https://github.com/KL-cqx/pdf-spliter
+> 仓库地址（GitHub）：https://github.com/KL-cqx/pdf-spliter
+> 仓库地址（Gitee）：https://gitee.com/cai-qixuan/pdf-spliter
 
 ## 功能描述
 

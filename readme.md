@@ -2,6 +2,8 @@
 
 一个**纯前端、单文件、零安装**的 PDF 拆分工具。用户下载 `pdf_spliter_offline.html` 后，双击用浏览器打开即可弹出交互界面使用，无需安装任何环境，也**完全不需要联网**。
 
+> 仓库地址：https://github.com/KL-cqx/pdf-spliter
+
 ## 功能描述
 
 - **按每 N 页拆分**：把一份 PDF 按固定页数切成多份（如每 3 页一份）。
@@ -79,11 +81,9 @@
 - `screenshots/` —— 使用截图。
 
 
-如果这个工具对你有帮助，欢迎请作者喝杯咖啡 ☕。
+<details>
+<summary>如果这个工具对你有帮助，欢迎请作者喝杯咖啡 ☕</summary>
 
+![收款码](assets/tip.jpg)
 
-
-
-
-
-![收款码](收款码.jpg)
+</details>
